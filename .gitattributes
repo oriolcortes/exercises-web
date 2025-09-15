@@ -1,0 +1,2 @@
+text=auto eol=lf
+sessions/session00/solutions/** filter=encS00 diff=binary
