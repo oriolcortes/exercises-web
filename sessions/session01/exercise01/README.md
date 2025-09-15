@@ -19,6 +19,7 @@
 
 **Ejemplo de estructura de carpetas:**
 
+```text
 mi-proyecto/
 ├── public/
 │ ├── index.html ← Página principal
@@ -31,6 +32,7 @@ mi-proyecto/
 │   ├── foto3.webp
 │   └── foto4.webp
 └── README.md
+```
 
 > [!TIP]
 > Usa un solo `<h1>` por página. A partir de ahí, organiza con `<h2>` y `<h3>` según la profundidad de los temas.
@@ -65,7 +67,7 @@ mi-proyecto/
 
 ---
 
-## 🏆 ADVANCED LEVEL (opcional)
+## 🏆 ADVANCED LEVEL
 1. **SEO básico**:
    - Añade **al menos 8 palabras clave** coherentes con el contenido (`<meta name="keywords" content="…">`).
    - Define `<meta name="author" content="Tu Nombre">`.
@@ -84,6 +86,7 @@ mi-proyecto/
 ## 🤝 Integración de soluciones (trabajo en parejas)
 Cuando termines, **intercambia tu solución** con un compañero/a y cread una estructura conjunta:
 
+```text
 CarpetaSoluciones/
 ├── CarpetaSolucion1/
 │ └── public/
@@ -108,6 +111,7 @@ CarpetaSoluciones/
 │   ├── foto3.webp
 │   └── foto4.webp
 └── index.html ← Página con enlaces a cada solución
+```
 
 > [!TIP]
 > Al abrir `CarpetaSolucion1/public/index.html` o `CarpetaSolucion2/public/index.html`,  
