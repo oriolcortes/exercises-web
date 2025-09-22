@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Horario Semanal — 1º DAW</title>
+    <meta name="description" content="Horario semanal de 1º de DAW con estructura semántica y accesible." />
+  </head>
+  <body>
+    <header>
+      <h1>Horario Semanal — 1º DAW</h1>
+
+      <nav>
+        <ul>
+          <li><a href="./index.html">Inicio (Horario)</a></li>
+          <li><a href="./pages/modulos.html">Módulos</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section>
+        <h2>Tabla de horario semanal</h2>
+
+        <p>
+          Este horario corresponde a <strong>1º DAW</strong>. Se emplean buenas prácticas de
+          <em>HTML semántico</em> y <strong>accesibilidad</strong> (encabezados, <code>caption</code>, y
+          <code>scope</code> en las celdas de cabecera).
+        </p>
+
+        <table>
+          <caption>Horario Semanal — 1º DAW</caption>
+
+          <thead>
+            <tr>
+              <th scope="col">Franja</th>
+              <th scope="col">Lunes</th>
+              <th scope="col">Martes</th>
+              <th scope="col">Miércoles</th>
+              <th scope="col">Jueves</th>
+              <th scope="col">Viernes</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr>
+              <th scope="row">09:00–10:00</th>
+              <td>LM</td>
+              <td>BD</td>
+              <td>PROG</td>
+              <td>ED</td>
+              <td>SI</td>
+            </tr>
+
+            <tr>
+              <th scope="row">10:00–11:00</th>
+              <td>LM</td>
+              <td>BD</td>
+              <td>PROG</td>
+              <td>ED</td>
+              <td>SI</td>
+            </tr>
+
+            <!-- Descanso con colspan -->
+            <tr>
+              <th scope="row">11:00–11:30</th>
+              <td colspan="5">Descanso</td>
+            </tr>
+
+            <tr>
+              <th scope="row">11:30–12:30</th>
+              <td>PROG</td>
+              <td>SI</td>
+              <td>BD</td>
+              <td>FOL</td>
+              <td>LM</td>
+            </tr>
+
+            <tr>
+              <th scope="row">12:30–13:30</th>
+              <td>PROG</td>
+              <td>SI</td>
+              <td>BD</td>
+              <td>FOL</td>
+              <td>LM</td>
+            </tr>
+
+            <tr>
+              <th scope="row">13:30–14:30</th>
+              <td>ED</td>
+              <td>FOL</td>
+              <td>SI</td>
+              <td>BD</td>
+              <td>TUT</td>
+            </tr>
+          </tbody>
+
+          <tfoot>
+            <tr>
+              <td colspan="6">
+                Nota: Las siglas son LM (Lenguajes de Marcas), BD (Bases de Datos), PROG (Programación),
+                ED (Entornos de Desarrollo), SI (Sistemas Informáticos), FOL (Formación y Orientación Laboral),
+                TUT (Tutoría).
+              </td>
+            </tr>
+          </tfoot>
+        </table>
+      </section>
+    </main>
+
+    <footer>
+      <p><a href="./pages/modulos.html">Ir a módulos</a></p>
+    </footer>
+  </body>
+</html>
