@@ -137,3 +137,6 @@ dist
 
 # Keys for encrypted files
 .keys/
+
+# macOS system files (unnecessary in the repo)
+.DS_Store
