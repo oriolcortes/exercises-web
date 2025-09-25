@@ -5,7 +5,7 @@ set -euo pipefail
 PREFIX="session"
 # Define el número de iteraciones (por ejemplo, 0 para session00.pass; cambia este valor para procesar más ficheros)
 INIT=1
-END=2
+END=3
 LAST_ID=""
 counter=0
 
