@@ -2,3 +2,4 @@ text=auto eol=lf
 sessions/session01/solutions/** filter=encS01 diff=binary
 sessions/session02/solutions/** filter=encS02 diff=binary
 sessions/session03/solutions/** filter=encS03 diff=binary
+sessions/session04/solutions/** filter=encS04 diff=binary
