@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Modificar [el código dado](./index.html) para **cambiar y/o añadir elementos HTML** utilizando etiquetas **semánticas de HTML5**.  
+Modificar [el código dado](./starter/index.html) para **cambiar y/o añadir elementos HTML** utilizando etiquetas **semánticas de HTML5**.  
 👉 Importante: la página debe **seguirse viendo igual** (no modifiques el CSS).
 
 ---

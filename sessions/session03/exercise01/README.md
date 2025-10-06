@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Crear una página web que se asemeje lo máximo posible a la [**imagen dada**](./code/img), partiendo del [código proporcionado](./code/index.html).  
+Crear una página web que se asemeje lo máximo posible a la [**imagen dada**](./starter/img), partiendo del [código proporcionado](./starter/index.html).  
 👉 Puedes **añadir clases e ids** siempre que lo necesites.
 
 ---

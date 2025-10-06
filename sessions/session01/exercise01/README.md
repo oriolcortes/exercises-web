@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-[A partir de un texto dado](./text.txt), crea un **pequeño sitio web multipágina** utilizando HTML y buenas prácticas básicas de SEO (sin publicarlo en Internet).
+[A partir de un texto dado](./starter/text.txt), crea un **pequeño sitio web multipágina** utilizando HTML y buenas prácticas básicas de SEO (sin publicarlo en Internet).
 
 ---
 
