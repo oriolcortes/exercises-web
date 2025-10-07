@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Crea una **página web** que se asemeje **lo máximo posible** a la **[imagen dada](./starter/img)**, partiendo del **[código proporcionado](./starter/index.html)**.  
+Crea una **página web** que se asemeje **lo máximo posible** a la **[imagen dada](./starter/img/page.png)**, partiendo del **[código proporcionado](./starter/index.html)**.  
 👉 Puedes **añadir clases e IDs** siempre que lo necesites.
 
 ---
@@ -30,6 +30,7 @@ Crea una **página web** que se asemeje **lo máximo posible** a la **[imagen da
 ## 🎛️ Pistas técnicas (opcionales)
 
 - Parallax sencillo con CSS:
+
   ```css
   .parallax {
     background-image: url('./img/bg-01.jpg');
